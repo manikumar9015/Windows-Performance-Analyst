@@ -3,6 +3,10 @@
 
 A desktop Java application that collects system telemetry data and integrates with Gemini AI for analysis.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87521ee6-96ad-4145-9689-befd1a23b26d" />
+
+
+
 ---
 
 ## 🚀 Getting Started
